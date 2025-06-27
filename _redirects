@@ -1,0 +1,2 @@
+/dashboard    https://chsong-backend.onrender.com/dashboard    200
+/admin/*      https://chsong-backend.onrender.com/admin/:splat 200
